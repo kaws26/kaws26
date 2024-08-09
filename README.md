@@ -8,7 +8,7 @@ I'm a **Data Science Enthusiast** with a passion for turning data into actionabl
 - 🎓 **Education**: I'm constantly learning and expanding my knowledge in Data Science, Machine Learning, and AI.
 - 🌍 **Location**: Delhi, India 🇮🇳
 - 💡 **Interests**: AI, Data Science, Web Development, Automation
-- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com**https://www.linkedin.com/in/kawaljeet-singh-071626282/) 
+- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/kawaljeet-singh-071626282/) 
 
 ---
 
@@ -16,7 +16,7 @@ I'm a **Data Science Enthusiast** with a passion for turning data into actionabl
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="Flask" style="background-color: white; padding: 10px; border-radius: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
