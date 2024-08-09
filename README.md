@@ -38,9 +38,9 @@ I'm a **Data Science Enthusiast** with a passion for turning data into actionabl
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Kawaljeet's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Kawaljeet's GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kaws26&show_icons=true&theme=radical" alt="Kawaljeet's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaws26&theme=radical" alt="Kawaljeet's GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaws26&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
