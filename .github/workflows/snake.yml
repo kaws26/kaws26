@@ -18,8 +18,9 @@ jobs:
           github_user_name: kaws26
           svg_out_path: dist/snake.svg
 
-      - name: Push Snake Animation to Output Branch
-        uses: ad-m/github-push-action@v3
+      - name: Deploy Snake Animation
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          branch: output
-          directory: dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
