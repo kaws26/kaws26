@@ -1,6 +1,3 @@
-Here's an improved and polished README file that highlights your skills and projects professionally:
-
----
 
 # Hi there, I'm Kawaljeet Singh! 👋 
 
