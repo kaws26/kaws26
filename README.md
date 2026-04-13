@@ -20,7 +20,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kawaljeet--singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kawaljeet-singh-071626282/)
 [![GitHub](https://img.shields.io/badge/GitHub-kaws26-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaws26)
 [![LeetCode](https://img.shields.io/badge/LeetCode-kawaljeet--singh-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kaws26)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://kawaljeet-singh-portfolio.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://kaws26.github.io/Portfolio-2/)
 [![Email](https://img.shields.io/badge/Email-kawaljeetsingh0026-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kawaljeetsingh0026@gmail.com)
 
 </div>
@@ -305,7 +305,7 @@ Drop me a line — let's talk code 👇
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kawaljeet-singh-071626282/)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kawaljeetsingh0026@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://kawaljeet-singh-portfolio.io)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://kaws26.github.io/Portfolio-2/)
 
 </div>
 
